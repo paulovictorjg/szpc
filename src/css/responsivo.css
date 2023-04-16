@@ -1,7 +1,6 @@
 @media (max-width: 1280px) {
 	body {
 		padding: 0 40px;
-		color:blueviolet;
 	}
 }
 
@@ -26,7 +25,7 @@
 
 	.informacoes .descricao {
 		width: 100%;
-		color: blueviolet;
+		color: Green;
 	}
 
 	.menu-lateral {
@@ -43,7 +42,6 @@
 	.conteudo {
 		min-height: 70vh;
 		gap: 50px;
-		color: blueviolet;
 	}
 
 	body {
