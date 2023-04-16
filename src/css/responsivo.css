@@ -25,6 +25,7 @@
 
 	.informacoes .descricao {
 		width: 100%;
+		color: bluevioletblueviolet;
 	}
 
 	.menu-lateral {
@@ -41,6 +42,7 @@
 	.conteudo {
 		min-height: 70vh;
 		gap: 50px;
+		color: blueviolet;
 	}
 
 	body {
