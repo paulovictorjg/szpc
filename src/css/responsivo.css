@@ -13,6 +13,7 @@
 
 	.informacoes .descricao {
 		width: 10%;
+		color: blueviolet;
 		text-align: center;
 	}
 }
